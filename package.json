@@ -1,0 +1,60 @@
+{
+	"name": "@ysn4irix/filego",
+	"description": "command line interface to recursively upload files/folder to +14 anonymous file-sharing platforms",
+	"version": "1.0.0",
+	"license": "MIT",
+	"bin": {
+		"filego": "index.js"
+	},
+	"author": {
+		"name": "Ysn4Irix",
+		"email": "ysn4irix@gmail.com",
+		"url": "https://ysnirix.xyz"
+	},
+	"keywords": [
+		"filego",
+		"cli",
+		"command-line-interface",
+		"file-uploader",
+		"folder-uploader",
+		"file-sharing",
+		"nodejs",
+		"javascript"
+	],
+	"files": [
+		"index.js",
+		"utils"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Ysn4Irix/filego.git"
+	},
+	"homepage": "https://github.com/ysn4irix/filego.git",
+	"bugs": {
+		"url": "https://github.com/ysn4irix/filego.git/issues"
+	},
+	"scripts": {
+		"format": "prettier --write \"./**/*.{js,json}\""
+	},
+	"dependencies": {
+		"archiver": "^5.3.1",
+		"axios": "^1.4.0",
+		"base-64": "^1.0.0",
+		"chalk": "^4.1.2",
+		"cheerio": "1.0.0-rc.12",
+		"cli-alerts": "^1.2.2",
+		"cli-handle-unhandled": "^1.1.1",
+		"cli-meow-help": "^3.1.0",
+		"cli-should-cancel": "^1.0.3",
+		"cli-welcome": "^2.2.2",
+		"form-data": "^4.0.0",
+		"meow": "^9.0.0",
+		"ora": "^5.4.0"
+	},
+	"devDependencies": {
+		"prettier": "^2.7.1"
+	},
+	"engines": {
+		"node": ">=18.0.0"
+	}
+}

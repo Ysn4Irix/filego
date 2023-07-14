@@ -1,0 +1,16 @@
+[
+	{ "name": "AnonFiles", "url": "https://api.anonfiles.com/upload" },
+	{ "name": "FileChan", "url": "https://api.filechan.org/upload" },
+	{ "name": "MyFile", "url": "https://api.myfile.is/upload" },
+	{ "name": "BayFiles", "url": "https://api.bayfiles.com/upload" },
+	{ "name": "LetsUpload", "url": "https://api.letsupload.cc/upload" },
+	{ "name": "ShareOnline", "url": "https://api.share-online.is/upload" },
+	{ "name": "MegaUpload", "url": "https://api.megaupload.nz/upload" },
+	{ "name": "VShare", "url": "https://api.vshare.is/upload" },
+	{ "name": "HotFiles", "url": "https://api.hotfile.io/upload" },
+	{ "name": "RapidShare", "url": "https://api.rapidshare.nu/upload" },
+	{ "name": "UpVid", "url": "https://api.upvid.cc/upload" },
+	{ "name": "LoLAbits", "url": "https://api.lolabits.se/upload" },
+	{ "name": "OpenLoad", "url": "https://api.openload.cc/upload" },
+	{ "name": "ZippyShare", "url": "https://api.zippysha.re/upload" }
+]
