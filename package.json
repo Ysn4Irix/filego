@@ -1,7 +1,7 @@
 {
 	"name": "@ysn4irix/filego",
 	"description": "command line interface to recursively upload files/folder to +14 anonymous file-sharing platforms",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"bin": {
 		"filego": "index.js"
