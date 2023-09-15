@@ -11,6 +11,5 @@
 	{ "name": "RapidShare", "url": "https://api.rapidshare.nu/upload" },
 	{ "name": "UpVid", "url": "https://api.upvid.cc/upload" },
 	{ "name": "LoLAbits", "url": "https://api.lolabits.se/upload" },
-	{ "name": "OpenLoad", "url": "https://api.openload.cc/upload" },
-	{ "name": "ZippyShare", "url": "https://api.zippysha.re/upload" }
+	{ "name": "OpenLoad", "url": "https://api.openload.cc/upload" }
 ]
